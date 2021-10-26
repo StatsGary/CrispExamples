@@ -1,0 +1,2 @@
+# HateSpeechNLPModel
+Hate speech model
