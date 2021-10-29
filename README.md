@@ -1,2 +1,3 @@
-# HateSpeechNLPModel
-Hate speech model
+# Crisp Examples
+
+Modelling potential.
